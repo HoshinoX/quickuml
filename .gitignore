@@ -1,0 +1,8 @@
+/.idea/
+/vendor
+/*.puml
+/*.png
+/bin/*
+/setup.lock
+/composer.json
+/composer.lock
